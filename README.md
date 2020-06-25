@@ -14,11 +14,14 @@ Machine Learning Study Path
 
 ## Theory
 ### Machine Learning Theory
-- 《统计学习基础》李航
-- [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml)
+- 《统计学习基础》第二版 - 李航
+- [fast.ai Introduction to Machine Learning for Coders](http://course18.fast.ai/ml)
 - 白板手推机器学习 https://github.com/shuhuai007/Machine-Learning-Session
 - 机器学习公式推导与代码实现
 - https://developers.google.cn/machine-learning/crash-course/ml-intro
+- 机器学习2020 - 李宏毅 \
+课程主页：http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html \
+视频：https://www.bilibili.com/video/BV1eE411T7BS
 
 ### Deep Learning Theory
 - Deep Learning Specialization - deeplearning.ai
@@ -40,6 +43,9 @@ Machine Learning Study Path
 ### Graph Neural Networks
 - https://github.com/thunlp/GNNPapers
 - http://nlp.csai.tsinghua.edu.cn/~lzy/books/gnn_2020.html
+- CS224W Machine Learning with Graphs \
+课程主页：http://web.stanford.edu/class/cs224w/ \
+视频：https://www.bilibili.com/video/BV1me411x7Rm
 
 ## Useful Tools and Frameworks
 ### PyTorch
@@ -72,10 +78,21 @@ Machine Learning Study Path
 - https://developers.google.cn/machine-learning/recommendation
 
 ### Natural Language Processing
-- [Code-First Introduction to Natural Language Processing](https://www.fast.ai/2019/07/08/fastai-nlp/)
-- [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
-- 人类语言处理 - 李宏毅
-
+- Code-First Introduction to Natural Language Processing \
+课程主页：https://www.fast.ai/2019/07/08/fastai-nlp/  \
+代码：https://github.com/fastai/course-nlp
+- CS224n: Natural Language Processing with Deep Learning \
+课程主页：http://web.stanford.edu/class/cs224n/  \
+视频：https://www.bilibili.com/video/BV19b411n7K1
+- 人类语言处理 - 李宏毅 \
+视频：https://www.bilibili.com/video/BV1wE411W7TV  \
+课程主页：http://speech.ee.ntu.edu.tw/~tlkagk/courses_DLHLP20.html
+- NLP-Beginner：自然语言处理入门练习 \
+https://github.com/FudanNLP/nlp-beginner \
+https://github.com/Alic-yuan/nlp-beginner-finish
+- https://github.com/graykode/nlp-roadmap
+- https://github.com/graykode/nlp-tutorial
+- https://github.com/yandexdataschool/nlp_course
 
 ## Mathematics
 ### Linear Algebra
