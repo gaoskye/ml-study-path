@@ -26,6 +26,7 @@ Machine Learning Study Path
 视频：https://www.bilibili.com/video/BV1eE411T7BS
 - https://github.com/d2l-ai/d2l-en
 - https://developers.google.cn/machine-learning/crash-course/ml-intro
+- Machine Learning DS-GA 1003 NYU: https://davidrosenberg.github.io/ml2019/#home
 
 ### Deep Learning Theory
 - Deep Learning Specialization - deeplearning.ai
@@ -35,6 +36,10 @@ Machine Learning Study Path
 - CS231n: Convolutional Neural Networks for Visual Recognition \
 课程主页：https://cs231n.github.io/ \
 视频：https://www.bilibili.com/video/av76690872/
+- DEEP LEARNING SPRING 2020 · NYU \
+课程主页：https://atcold.github.io/pytorch-Deep-Learning/  \
+资料：https://github.com/Atcold/pytorch-Deep-Learning  \
+视频：https://www.bilibili.com/video/av752958850/
 - [Practical Deep Learning for Coders](https://course.fast.ai/)
 - [Part 2: Deep Learning from the Foundations](https://course.fast.ai/part2)
 
