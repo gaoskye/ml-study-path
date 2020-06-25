@@ -8,6 +8,7 @@ Machine Learning Study Path
 - 剑指 Offer: https://leetcode-cn.com/problemset/lcof/
 - HackerRank: https://www.hackerrank.com/dashboard
 - Kick Start: https://codingcompetitions.withgoogle.com/kickstart
+- https://github.com/labuladong/fucking-algorithm
 ### ML & DL
 - 《百面机器学习》
 ### Computer Science
@@ -18,10 +19,11 @@ Machine Learning Study Path
 - [fast.ai Introduction to Machine Learning for Coders](http://course18.fast.ai/ml)
 - 白板手推机器学习 https://github.com/shuhuai007/Machine-Learning-Session
 - 机器学习公式推导与代码实现
-- https://developers.google.cn/machine-learning/crash-course/ml-intro
 - 机器学习2020 - 李宏毅 \
 课程主页：http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html \
 视频：https://www.bilibili.com/video/BV1eE411T7BS
+- https://github.com/d2l-ai/d2l-en
+- https://developers.google.cn/machine-learning/crash-course/ml-intro
 
 ### Deep Learning Theory
 - Deep Learning Specialization - deeplearning.ai
@@ -47,20 +49,28 @@ Machine Learning Study Path
 课程主页：http://web.stanford.edu/class/cs224w/ \
 视频：https://www.bilibili.com/video/BV1me411x7Rm
 
+### Parallel Programming
+- Udacity CS344 - Intro to Parallel Programming \
+https://github.com/depctg/udacity-cs344-colab
+
 ## Useful Tools and Frameworks
 ### PyTorch
 - 官方教程: https://pytorch.org/tutorials/
 - https://morvanzhou.github.io/tutorials/machine-learning/torch/
 - 中文版官方教程: https://pytorch.apachecn.org/docs/1.4/
+- 《深度学习框架PyTorch：入门与实践》对应代码 https://github.com/chenyuntc/pytorch-book
 - https://github.com/zergtant/pytorch-handbook
 - https://github.com/yunjey/pytorch-tutorial
+- https://github.com/pytorch/examples
+- https://tangshusen.me/Dive-into-DL-PyTorch/#/
 ### Keras
 - 《Python深度学习》
 - https://morvanzhou.github.io/tutorials/machine-learning/keras/
 ### TensorFlow
 - https://lyhue1991.github.io/eat_tensorflow2_in_30_days/
 - https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/
-
+- https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book
+- https://github.com/dragen1860/TensorFlow-2.x-Tutorials
 ### Pandas
 ### Numpy
 ### scikit-learn
