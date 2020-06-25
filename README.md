@@ -62,7 +62,9 @@ Notes: https://ermongroup.github.io/cs228-notes/
 
 ### Parallel Programming
 - Udacity CS344 - Intro to Parallel Programming \
-https://github.com/depctg/udacity-cs344-colab
+https://github.com/depctg/udacity-cs344-colab \
+https://github.com/udacity/cs344 \
+https://classroom.udacity.com/courses/cs344
 
 ## Useful Tools and Frameworks
 ### PyTorch
