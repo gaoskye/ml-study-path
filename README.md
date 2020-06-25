@@ -28,7 +28,9 @@ Machine Learning Study Path
 ### Deep Learning Theory
 - Deep Learning Specialization - deeplearning.ai
 - 《神经网络与深度学习》邱锡鹏
-- CS231N https://cs231n.github.io/
+- CS231n: Convolutional Neural Networks for Visual Recognition \
+课程主页：https://cs231n.github.io/ \
+视频：https://www.bilibili.com/video/av76690872/
 - [Practical Deep Learning for Coders](https://course.fast.ai/)
 - [Part 2: Deep Learning from the Foundations](https://course.fast.ai/part2)
 
