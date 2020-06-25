@@ -17,7 +17,9 @@ Machine Learning Study Path
 ### Machine Learning Theory
 - 《统计学习基础》第二版 - 李航
 - [fast.ai Introduction to Machine Learning for Coders](http://course18.fast.ai/ml)
-- 白板手推机器学习 https://github.com/shuhuai007/Machine-Learning-Session
+- 白板手推机器学习 \
+主页：https://github.com/shuhuai007/Machine-Learning-Session \
+视频：https://www.bilibili.com/video/BV1aE411o7qd
 - 机器学习公式推导与代码实现
 - 机器学习2020 - 李宏毅 \
 课程主页：http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html \
@@ -27,7 +29,9 @@ Machine Learning Study Path
 
 ### Deep Learning Theory
 - Deep Learning Specialization - deeplearning.ai
-- 《神经网络与深度学习》邱锡鹏
+- 《神经网络与深度学习》邱锡鹏 \
+主页：https://nndl.github.io/ \
+练习代码：https://github.com/nndl/exercise
 - CS231n: Convolutional Neural Networks for Visual Recognition \
 课程主页：https://cs231n.github.io/ \
 视频：https://www.bilibili.com/video/av76690872/
