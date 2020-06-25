@@ -33,20 +33,31 @@ Machine Learning Study Path
 - [Part 2: Deep Learning from the Foundations](https://course.fast.ai/part2)
 
 ### Reinforcement Learning
-- [CUHK周博磊 强化学习](https://space.bilibili.com/511221970/channel/detail?cid=105354)
-- [UCL Course on RL](https://www.davidsilver.uk/teaching/)
+- CUHK周博磊 强化学习 \
+视频：https://space.bilibili.com/511221970/channel/detail?cid=105354 \
+主页：https://github.com/zhoubolei/introRL
+- UCL Course on RL David Silver \
+课程主页：https://www.davidsilver.uk/teaching/ \
+视频：https://www.bilibili.com/video/av45357759/
 - [David Silver强化学习公开课中文讲解及实践](https://zhuanlan.zhihu.com/reinforce)
+- https://rl.qiwihui.com/zh_CN/latest/
+- http://incompleteideas.net/book/the-book-2nd.html
+- https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
 
 ### Probabilistic Graphical Models
-- CMU 10-708 https://www.cs.cmu.edu/~epxing/Class/10708-20/lectures.html
-- [Stanford CS 228](https://cs228.stanford.edu/) Notes: https://ermongroup.github.io/cs228-notes/
+- CMU 10-708 \
+课程主页：https://www.cs.cmu.edu/~epxing/Class/10708-20/lectures.html \
+视频：https://www.bilibili.com/video/av87852915
+- Stanford CS 228 \
+课程主页：https://cs228.stanford.edu/  \
+Notes: https://ermongroup.github.io/cs228-notes/
 - https://www.coursera.org/specializations/probabilistic-graphical-models
 
 ### Graph Neural Networks
 - https://github.com/thunlp/GNNPapers
 - http://nlp.csai.tsinghua.edu.cn/~lzy/books/gnn_2020.html
 - CS224W Machine Learning with Graphs \
-课程主页：http://web.stanford.edu/class/cs224w/ \
+课程主页：http://web.stanford.edu/class/cs224w/  \
 视频：https://www.bilibili.com/video/BV1me411x7Rm
 
 ### Parallel Programming
